@@ -1,2 +1,2 @@
 # Test2
-Test Repo
+Test Repo add git command recommandation
